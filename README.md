@@ -9,9 +9,15 @@ This course introduces the fundamental techniques used in computer vision, that 
 All the homework for Computer Vision (16720) offered by the Robotics Institute at Carnegie Mellon University. I loved this course so much!
 
 HW0: Intro to NumPy and Vector Math
+
 HW1: Histogram of Gradients
+
 HW2: Lucas Kanade
+
 HW3: Homographies
+
 HW4: 3D Reconstruction
+
 HW5: Neural Networks
+
 HW6: Photometric Stereo
